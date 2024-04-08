@@ -1,5 +1,6 @@
 # Cognitive-Health-and-Dementia-Risk
 **Introduction:**
+
 This analysis aims to investigate factors associated with cognitive health and dementia risk by comparing simulated datasets for groups A (healthy individuals) and B (individuals with dementia or at risk). The study utilizes statistical analysis and visualization techniques to discern differences between the two groups and draw insights into potential interventions for promoting cognitive health.
 Simulating Dataset A and B:
 The data for groups A and B were simulated using various distributions and parameters. For group A, which represents healthy individuals, variables such as age, cognitive score, physical activity, diet quality, social interaction, education years, income, and smoking status were generated with parameters reflecting typical values for this population. In contrast, group B, comprising individuals with dementia or at risk, exhibited altered distributions with parameters reflecting characteristics associated with cognitive decline.
